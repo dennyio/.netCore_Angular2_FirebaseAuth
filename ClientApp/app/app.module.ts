@@ -14,11 +14,11 @@ import { FormsModule } from '@angular/forms';
 
 
 export const firebaseConfig = {
-    apiKey: 'AIzaSyDXJ9gl46PkG9ADwTMlKWNhqrRpfKLZw-8',
-    authDomain: 'lmgr-147dd.firebaseapp.com',
-    databaseURL: 'https://lmgr-147dd.firebaseio.com',
-    storageBucket: 'lmgr-147dd.appspot.com',
-    messagingSenderId: '1059679246728'
+    apiKey: '',
+    authDomain: '',
+    databaseURL: '',
+    storageBucket: '',
+    messagingSenderId: ''
 };
 
 
